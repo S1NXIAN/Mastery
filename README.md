@@ -1,6 +1,6 @@
 # Mastery
 
-Programming curricula and references built on a single premise: you cannot optimize what you do not understand.
+Curated learning paths to programming language mastery.
 
 ## Contents
 
