@@ -6,9 +6,10 @@ Details and local source file paths for the curated C programming language textb
 
 | Title | Author | Edition | Year | ISBN | Source File |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| *C Programming: A Modern Approach* | K. N. King | 2nd | 2008 | 978-0393979503 | [C Programming - A Modern Approach, 2nd Edition.zip](file:///home/xian/Projects/mastery/C/books/C%20Programming%20-%20A%20Modern%20Approach,%202nd%20Edition.zip) *(Unzip for PDF)* |
-| *The C Programming Language* | Kernighan & Ritchie | 2nd | 1988 | 978-0131103627 | [The C Programming Language, 2nd Edition.pdf](file:///home/xian/Projects/mastery/C/books/The%20C%20Programming%20Language,%202nd%20Edition.pdf) |
-| *Effective C: An Introduction to Professional C Programming* | Robert C. Seacord | 2nd | 2024 | 978-1718504127 | [Effective C - An Introduction to Professional C Programming, 2nd Edition.pdf](file:///home/xian/Projects/mastery/C/books/Effective%20C%20-%20An%20Introduction%20to%20Professional%20C%20Programming,%202nd%20Edition.pdf) |
+| *C Programming: A Modern Approach* | K. N. King | 2nd | 2008 | 978-0393979503 | [C Programming - A Modern Approach, 2nd Edition.zip](books/C%20Programming%20-%20A%20Modern%20Approach,%202nd%20Edition.zip) *(Unzip for PDF)* |
+| *The C Programming Language* | Kernighan & Ritchie | 2nd | 1988 | 978-0131103627 | [The C Programming Language, 2nd Edition.pdf](books/The%20C%20Programming%20Language,%202nd%20Edition.pdf) |
+| *Effective C: An Introduction to Professional C Programming* | Robert C. Seacord | 2nd | 2024 | 978-1718504127 | [Effective C - An Introduction to Professional C Programming, 2nd Edition.pdf](books/Effective%20C%20-%20An%20Introduction%20to%20Professional%20C%20Programming,%202nd%20Edition.pdf) |
+
 
 ## Acquisition Links
 

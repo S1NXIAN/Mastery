@@ -23,5 +23,4 @@ Always compile with strict diagnostics, warnings-as-errors, and address/undefine
 gcc -Wall -Wextra -Wpedantic -Werror -g -O0 -fsanitize=address,undefined main.c -o main
 ```
 
-For details on where to obtain these books and their local file locations, see the [References Guide](file:///home/xian/Projects/mastery/C/REFERENCES.md).
-
+For details on where to obtain these books and their local file locations, see the [References Guide](REFERENCES.md).

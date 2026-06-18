@@ -14,10 +14,11 @@ I prefer books because they don't skip details to stay engaging. They force me t
 
 | Focus Area | Directory | Scope |
 | :--- | :--- | :--- |
-| **C Programming** | [C/](file:///home/xian/Projects/mastery/C/) | A progressive roadmap from language basics to systems programming safety. |
-| **Best Practices** | [best-practices/](file:///home/xian/Projects/mastery/best-practices/) | Principles of clean structure, identifier naming, and readable code. |
+| **C Programming** | [C/](C/) | A progressive roadmap from language basics to systems programming safety. |
+| **Best Practices** | [best-practices/](best-practices/) | Principles of clean structure, identifier naming, and readable code. |
 
 ## License
 
-This project is dedicated to the public domain under the [Unlicense](file:///home/xian/Projects/mastery/LICENSE). You are free to copy, modify, and distribute it without attribution.
+This project is dedicated to the public domain under the [Unlicense](LICENSE). You are free to copy, modify, and distribute it without attribution.
+
 
