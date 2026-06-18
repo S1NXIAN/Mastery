@@ -10,8 +10,6 @@
 | 2 | Kernighan & Ritchie — *The C Programming Language* (2nd ed.) |
 | 3 | Seacord — *Effective C* (2nd ed.) |
 
-Full bibliographic data and file locations in [REFERENCES.md](REFERENCES.md).
-
 ### Notes
 
 - **Read K&R alongside King**, not after. King is the tutorial; K&R is the compressed essence and reference.
