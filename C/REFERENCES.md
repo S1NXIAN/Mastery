@@ -9,17 +9,6 @@
 | 3 | *Effective C: An Introduction to Professional C Programming* | Robert C. Seacord | 2nd | 2024 | 978-1718504127 | `books/Effective C - An Introduction to Professional C Programming, 2nd Edition.pdf` |
 
 
-## Reading order
-
-```
-1. King          — read cover to cover (tutorial)
-2. K&R           — read alongside King (reference)
-3. Effective C   — after you can write working C (professional safety)
-
-```
-
-See the [curriculum](README.md) for week-by-week chapter assignments.
-
 ## Where to obtain
 
 | Book | Retail | Notes |
