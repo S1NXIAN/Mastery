@@ -4,11 +4,11 @@
 
 ## Reading order
 
-| Order | Book | Required |
-|---|---|---|
-| 1 | King — *C Programming: A Modern Approach* (2nd ed.) | Yes |
-| 2 | Kernighan & Ritchie — *The C Programming Language* (2nd ed.) | Yes |
-| 3 | Seacord — *Effective C* (2nd ed.) | Yes |
+| Order | Book |
+|---|---|
+| 1 | King — *C Programming: A Modern Approach* (2nd ed.) |
+| 2 | Kernighan & Ritchie — *The C Programming Language* (2nd ed.) |
+| 3 | Seacord — *Effective C* (2nd ed.) |
 
 Full bibliographic data and file locations in [REFERENCES.md](REFERENCES.md).
 
